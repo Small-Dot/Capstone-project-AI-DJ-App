@@ -1,0 +1,37 @@
+.header{
+    text-align: center;
+    font-family: 'Sigmar One', cursive;
+    width: 100%;
+    height: 100px;
+    line-height: 2.8;
+    margin-top: -5px;
+    color: black;
+    font-size: 30px;
+}
+ body{
+     background-image: url("background.jpg");
+     background-size: cover;
+ }
+.note{
+    text-align: center; 
+    width: 100%;
+    font-size: 15px;
+    font-family: 'Sigmar One', cursive;
+    margin-top: -35px;
+}
+ .div_song_name{
+ 
+     float: none;
+   
+ }
+ .div_song_name h1{
+ background-color: red;
+ font-family: 'Sigmar One', cursive;
+ color: black;
+ border-radius: 3px;
+ width: 40%;
+ }
+  canvas{
+      border: solid 30px orange;
+      border-radius: 30px;
+  }
